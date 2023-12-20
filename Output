@@ -1,0 +1,11 @@
+git init
+ubuntu@ip-172-31-26-70:~/shell-scripting-project/test$ export username="***********************"
+ubuntu@ip-172-31-26-70:~/shell-scripting-project/test$ export token=***************************
+ubuntu@ip-172-31-26-70:~/shell-scripting-project/test$ chmod 777 test2.sh 
+ubuntu@ip-172-31-26-70:~/shell-scripting-project/test$ ./test2.sh DevOpsPracticeBy devOps
+./test2.sh: line 1: #!/bin/bash: No such file or directory
+Listing users with read access to DevOpsPracticeBy/devOps...
+Users with read access to DevOpsPracticeBy/devOps:
+adarsh568
+adarshadshetty
+ubuntu@ip-172-31-26-70:~/shell-scripting-project/test$ 
